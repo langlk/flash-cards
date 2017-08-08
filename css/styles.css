@@ -1,3 +1,27 @@
+ul {
+  list-style: none;
+}
+
+ul.row {
+  padding-left: 0;
+}
+
+li.col-sm-3 {
+  height: 120px;
+  text-align: center;
+  padding:10px;
+}
+
+.green-background {
+  background-color: #749e50;
+}
+
+span.term {
+  display: block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 .definition {
   display: none;
 }
